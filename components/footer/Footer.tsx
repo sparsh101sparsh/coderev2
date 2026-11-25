@@ -101,7 +101,7 @@ export const Footer: React.FC = () => {
           <h4 className="text-white font-bold text-sm tracking-tight">Community</h4>
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/sparsh101sparsh/CodeRev"
+              href="https://github.com/sparsh101sparsh/coderev2"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"

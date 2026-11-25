@@ -31,7 +31,7 @@ export const Navbar: React.FC = () => {
   const [isProfileMenuOpen, setIsProfileMenuOpen] = useState(false);
   const menuButtonRef = useRef<HTMLButtonElement>(null);
   const profileMenuRef = useRef<HTMLDivElement>(null);
-  const githubUrl = 'https://github.com/sparsh101sparsh/CodeRev';
+  const githubUrl = 'https://github.com/sparsh101sparsh/coderev2';
 
   useEffect(() => {
     setIsMobileMenuOpen(false);
